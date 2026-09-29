@@ -1,0 +1,8 @@
+{
+  "name": "Studio Photography Template",
+  "description": "A reusable, editorial-grade photography studio website template designed for professional photographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
